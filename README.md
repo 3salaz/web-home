@@ -55,6 +55,7 @@ No Activity tracked this Week
 
 
 <br>
+
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
