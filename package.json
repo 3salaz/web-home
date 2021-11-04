@@ -1,0 +1,29 @@
+{
+  "name": "3salaz",
+  "version": "1.0.0",
+  "description": "hello development!",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3salaz/3salaz.git"
+  },
+  "keywords": [
+    "firebase",
+    "docker",
+    "travis",
+    "cloudFunctions",
+    "jest"
+  ],
+  "author": "3salaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/3salaz/3salaz/issues"
+  },
+  "homepage": "https://github.com/3salaz/3salaz#readme",
+  "dependencies": {
+    "firebase-functions": "^3.11.0"
+  }
+}
